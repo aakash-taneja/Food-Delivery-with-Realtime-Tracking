@@ -10,4 +10,4 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 
 ## Preview of website
 
-<img width="1427" alt="Screenshot" src="https://user-images.githubusercontent.com/70194192/120932251-a8c8c200-c712-11eb-9d56-933d3fb59e4e.png">
+<img width="1427" alt="Screenshot" src="https://github.com/aakash-taneja/Food-Delivery-with-Realtime-Tracking/blob/main/SnapCrab_NoName_2022-10-23_16-58-28_No-00.png?raw=true">
