@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Momo Salad",
+  "image": "momo-salad-recipe-1.jpg",
+  "price": "250",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Mixed Momo Platter",
+  "image": "Mixed-Platter-200-600x600.jpg",
+  "price": "300",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Chicken Lolly",
+  "image": "lolly-600x600.jpeg",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Prawn Momos",
+  "image": "IMG_0744-600x600.jpg",
+  "price": "500",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Chicken Momo in Chilli Oil",
+  "image": "Chicken-wonton-in-Chilli-Oil-180-tk-scaled-1-600x600.jpg",
+  "price": "350",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Chicken Momo",
+  "image": "Chicken-Momo-160-tk-600x600.jpg",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Chicken and Prawn Sumai",
+  "image": "Chicken-and-Prawn-Sumai-180-tk-600x600.jpg",
+  "price": "600",
+  "size": "large"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Pan Fried Momo",
+  "image": "Pan-fried-momo-1.jpeg",
+  "price": "500",
+  "size": "medium"
+}]
