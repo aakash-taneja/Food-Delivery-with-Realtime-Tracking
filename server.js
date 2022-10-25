@@ -13,7 +13,7 @@ const passport = require('passport')
 const Emitter = require('events')
 
 // Database connection
-mongoose.connect("mongodb://localhost:27017/pizza", {useNewUrlParser: true,useUnifiedTopology: true,useCreateIndex:true});
+mongoose.connect("mongodb+srv://pizza-app:pizzaboy@cluster0.jl3nmds.mongodb.net/pizza?retryWrites=true&w=majority", {useNewUrlParser: true,useUnifiedTopology: true,useCreateIndex:true,useFindAndModify:false});
 const connection=mongoose.connection;
 connection.once('open',()=>{
     console.log("Database connected....");
